@@ -10,4 +10,6 @@ and shapefiles for the census boundaries are available from:
 
 [http://www.stats.govt.nz/browse_for_stats/people_and_communities/Geographic-areas/digital-boundary-files.aspx](http://www.stats.govt.nz/browse_for_stats/people_and_communities/Geographic-areas/digital-boundary-files.aspx)
 
+tabbedTextToSQLite.R converted a folder of tab delimited text files saved from an Access into a SQLite database
 
+cycleToWork.R produces a summary map of cycle traffic to work for census day 2006.
