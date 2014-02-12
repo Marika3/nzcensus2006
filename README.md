@@ -13,3 +13,5 @@ and shapefiles for the census boundaries are available from:
 tabbedTextToSQLite.R converted a folder of tab delimited text files saved from an Access into a SQLite database
 
 cycleToWork.R produces a summary map of cycle traffic to work for census day 2006.
+
+anythingbutCar.R produces a summary map of all journeys to work not involving a car for census day 2006.
